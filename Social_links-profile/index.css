@@ -13,16 +13,51 @@ body{
     margin: 9% auto;
     border-radius: 3%;
 }
-.icon-block{
-    width: 25%;
-    height: 15%;
-    border-radius: 5%;
-    margin: auto;
+.img-box{
     position: relative;
-    top: 40px;
+    top: 5%;
+    width: 28%;
+    height: 20%;
+    margin: auto;
 }
 .img-box img{
-    width: 90%;
+    width: 80%;
     border-radius: 50%;
     margin: auto;
+}
+.nam-box{
+    color: #fff;
+    margin: auto;
+    position: relative;
+    top: 3%;
+    left: 27%;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.side-nam2{
+    position: relative;
+    top: 5%;
+    left: 23%;
+    width: 75%;
+    font-size: 15px;
+    color: hsl(69, 96%, 55%);
+}
+.pera-nam{
+    position: relative;
+    top: 8%;
+    left: 9%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+.blocks-buttons{
+    background-color: hsl(0, 0%, 20%);
+    margin: 5%;
+    text-align: center;
+    position: relative;
+    top: 8%;
+    padding: 7px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
 }
