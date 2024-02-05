@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body{
+    background-color: hsl(0, 0%, 81%);
+}
+.wapper{
+    width: 70%;
+    height: 500px;
+    display: flex;
+    margin: 7% auto;
+    gap: 2%;
+}
+.wapper-top{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 3%;
+}
+.top{
+    width: 100%;
+    height: 255px;
+    display: flex;
+    gap: 2%;
+}
+.right-revers{
+    width: 65%;
+    height: 245px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 5%;
+}
+.img-bar1 img{
+    margin: 2%;
+    border-radius: 69%;
+    width: 7%;
+}
+.danial-nam{
+    color: #fff;
+    position: relative;
+    left: 12%;
+    top: -19%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    font-size: 12px;
+}
+.Clifford01{
+    font-size: 11px;
+}
+.head-line01{
+    position: relative;
+    bottom: 15%;
+    left: 5%;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 89%;
+}
+.pera-subject{
+    font-size: 13px;
+    position: relative;
+    left: 5%;
+    bottom: 9%;
+    width: 91%;
+    color: lightgray;
+}
+.left-revers{
+    width: 33%;
+    height: 245px;
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 5%;
+}
+.img-bar2 img{
+    margin: 7%;
+    border-radius: 69%;
+    width: 10%;
+}
+.jonathan-nam{
+    color: #fff;
+    position: relative;
+    left: 22%;
+    top: -21%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head-line02{
+    position: relative;
+    bottom: 15%;
+    left: 5%;
+    color: #fff;
+    font-size: 17px;
+    width: 87%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pera-subject2{
+    font-size: 14px;
+    position: relative;
+    left: 5%;
+    width: 91%;
+    color: lightgray;
+    bottom: 9%;
+}
+.bottom{
+    width: 100%;
+    height: 245px;
+    display: flex;
+    gap: 2%;
+}
+.right{
+    width: 40%;
+    height: 245px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+}
+.img-bar3 img{
+    margin: 5%;
+    border-radius: 69%;
+    width: 10%;
+}
+.jeanette-nam{
+    position: relative;
+    left: 19%;
+    top: -20%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head-line03{
+    position: relative;
+    bottom: 15%;
+    left: 5%;
+    color: black;
+    font-size: 17px;
+    width: 91%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head-line04{
+    position: relative;
+    bottom: 15%;
+    left: 5%;
+    color: #fff;
+    font-size: 17px;
+    width: 91%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pera-subject4{
+    font-size: 14px;
+    position: relative;
+    left: 5%;
+    width: 91%;
+    color: gray;
+    bottom: 9%;
+}
+.left{
+    width: 64%;
+    height: 245px;
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 5%;
+}
+.img-bar4 img{
+    margin: 2%;
+    border-radius: 69%;
+    width: 8%;
+}
+.right-block{
+    width: 35%;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+}
+.img-bar5 img{
+    margin: 6%;
+    border-radius: 69%;
+    width: 12%;
+}
+.kira-nam{
+    position: relative;
+    left: 24%;
+    color: #161111;
+    top: -10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head-line05{
+    position: relative;
+    bottom: 6%;
+    left: 5%;
+    color: #161111;
+    font-size: 17px;
+    width: 91%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pera-subject5{
+    font-size: 14px;
+    position: relative;
+    left: 5%;
+    width: 91%;
+    color: gray;
+    top: -4%;
+}
+.block-element{
+    width: 100%;
+    height: 95%;
+}
