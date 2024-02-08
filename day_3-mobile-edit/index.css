@@ -3,23 +3,17 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-color: black;
-}
 .wapper{
     background-color: #fff;
-    margin:3% auto;
-    width: 30%;
+    margin:0 auto;
 }
 .wapper-ontherblock{
     display: flex;
     padding: 7%;
 }
-.logo-block{
-    width: 60%;
-}
+
 .logo-block img{
-    width: 65%;
+    width: 30%;
 }
 .but-blk{
     width: 50%;

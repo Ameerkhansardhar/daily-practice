@@ -56,9 +56,12 @@ body{
     border-color: rgb(242, 18, 167);
     border-radius: 30px 
 }
+
+.block_img-rap{
+    text-align: center;
+}
 .block_img-rap img{
-    position: relative;
-    left: 17%;
+    width: min(90vw,1035px);
 }
 .people-follows02{
     width: 70%;
