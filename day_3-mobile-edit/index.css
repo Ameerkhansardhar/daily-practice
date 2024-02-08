@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.wapper{
+    background-color: #fff;
+    margin:3% auto;
+    width: 30%;
+}
+.wapper-ontherblock{
+    display: flex;
+    padding: 7%;
+}
+.logo-block{
+    width: 60%;
+}
+.logo-block img{
+    width: 65%;
+}
+.but-blk{
+    width: 50%;
+}
+.block-but{
+    position: relative;
+    left: 40%;
+    width: 58%;
+    height: 30px;
+    color: rgb(250, 17, 168);
+    border-radius: 20px;
+    border-color: rgb(250, 17, 168);
+}
+.Huddle-re-imagines{
+    position: relative;
+   padding: 37px;
+   margin-top: 48px;
+}
+.hed-nam{
+    font-size: 35px;
+    text-align: center;
+}
+.frst-pera{
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+}
+.second-but{
+    position: relative;
+    width: 50%;
+    height: 3pc;
+    left: 24%;
+    border-radius: 35px;
+    color: #fff;
+    border-color:  rgb(250, 17, 168);
+    background-color:  rgb(250, 17, 168);
+}
+.mock-sreen-imgsreen{
+    width: 100%;
+    padding: 13%;
+}
+.mockups-screen-img{
+    width: 102%;
+}
+.mockups-screen-img img{
+    width: 100%;
+}
+.follower-block{
+    display: flex;
+    flex-direction: column;
+}
+.message-conmunication{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+  }  
+.hed-namepor{
+    font-size: 19px;
+    color: lightgray;
+    margin-top: 14px;
+}
+.communicaton-imglogo img{
+    position: relative;
+    right: 16%;
+}
+.flowing-img-matter{
+    background-color: #F6FBFF;
+    margin-top: -1pc;
+}
+.top-onebg-img img{
+    width: 100%;
+}
+.bloc-head{
+    text-align: center;
+    padding: 9px;
+}
+.frstimg-bar-flowwing img{
+    width: 70%;
+    position: relative;
+    left: 67px ;
+    padding: 15px;
+}
+.endblock-page{
+    margin-top: -2pc;
+    background-color: #00252E;
+}
+.frstbox-blue{
+    width: 90%;
+    color: #fff;
+    margin: 13px;
+    padding: 4%;
+}
+.prb-block_trp{
+    color: #fff;
+    text-align: left;
+    width: 103%;
+    padding: 6px;
+}
+.search{
+    width: 100%;
+    height: 45px;
+    border-radius: 10px 
+}
+.subscribe-but{
+    width: 45%;
+    height: 45px;
+    border-radius: 10px;
+    position: relative;
+    left: 54%;
+    top: 6px;
+    color: #fff;
+    background-color: rgb(250, 17, 168);
+    border-color: rgb(250, 17, 168); 
+}
+.finishing-block{
+    width: 100%;
+    color: #fff;
+}
+.secondbox-bar{
+    width: 73%;
+    padding: 5%;
+}
+.logo-img-icon img{
+    width: 65%;
+    padding: 5%;
+}
+.telephone-img{
+    margin: 3%;
+}
+.telephone-img img{
+    position: relative;
+    right: 5px;
+    top: 3px;
+}
