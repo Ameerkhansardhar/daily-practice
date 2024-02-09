@@ -56,9 +56,12 @@ body{
     border-color: rgb(242, 18, 167);
     border-radius: 30px 
 }
+
+.block_img-rap{
+    text-align: center;
+}
 .block_img-rap img{
-    position: relative;
-    left: 17%;
+    width: min(90vw,1035px);
 }
 .people-follows02{
     width: 70%;
@@ -100,7 +103,7 @@ body{
     margin-top: -8pc;
 }
 .communitiees-logo{
-    background-color: rgb(247, 250, 251);
+    background-color: #F6FBFF;
     width: 100%;
     height: 30pc;
     margin-top: -4px;
@@ -169,7 +172,7 @@ body{
 .endding-block-top{
     width: 100%;
     height: 20pc;
-    background-color: rgb(5 51 51);
+    background-color: #00252E;
     display: flex;
     margin-top: -1pc;
     color: #fff;
