@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+    height: 700px;
+}
+.piller-block{
+    width: 23%;
+    height: 84%;
+    background: linear-gradient(#cd36ef, #6570ee);
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+.right-piller{
+    width: 23%;
+    height: 80%;
+    position: relative;
+    bottom: 133%;
+    left: 77%;
+    background: #f7f5fa;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+.phone-layout{
+    width: 20%;
+    height: 73%;
+    position: relative;
+    bottom: 71%;
+    left: 17%;
+    background-color: #fff;
+    border-radius: 52px;
+    box-shadow: 10px 5px 5px black;
+}
+.profileblock-nam{
+    background: linear-gradient(0.25turn, #cd36ef, #6570ee);
+    height: 14%;
+    width: 87%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    left: 7%;
+    top: 4%;
+}
+.account-id-chat{
+    width: 90%;
+    height: 45%;
+    position: absolute;
+    top: 45%;
+    left: 5%;
+}
+.account-id-chat img{
+    width: 16%;
+    border-radius: 50%;
+    position: absolute;
+    left: 5%;
+    top: -12%;
+    border: 2px solid white;
+}
+.user-nam{
+    font-size: 13px;
+    position: absolute;
+    left: 26%;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.online-seen{
+    font-size: 10px;
+    position: absolute;
+    left: 26%;
+    color: lightgray;
+    top: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.chat-block{
+    background-color: #f7f5fa;
+    width: 97%;
+    height: 553%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    position: relative;
+    top: 100%;
+    left: 1%;
+}
+.some-matter{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    bottom: 200%;
+    left: 42%;
+    border-radius: 13%;
+}
+.chatting-msg{
+    width: 53%;
+    position: relative;
+    top: 5px;
+    overflow: hidden;
+    background-color: #e5b1f1;
+    color: #cd36ef;
+    margin: 3%;
+    border-radius: 8px;
+    font-size: 10px;
+    height: 10%;
+}
+.dog-imgs-blocks{
+    display: flex;
+}
+.dog-imgs-blocks img{
+    margin: 2%;
+    width: 15%;
+    position: relative;
+    left: 42%;
+    border-radius: 7px;
+}
+.reply-msg{
+    width: 53%;
+    position: relative;
+    top: 5px;
+    left:42% ;
+    overflow: hidden;
+    background-color: #f1e6f4;
+    color: #cd36ef;
+    margin: 3%;
+    border-radius: 8px;
+    font-size: 12px;
+    height: 11%; 
+}
+.head-nam01{
+    margin: 9px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.informatin-block{
+    position: relative;
+    left: 7%;
+    top: 8%;
+    width: 93%;
+    height: 50%;
+}
